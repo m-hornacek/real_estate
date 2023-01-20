@@ -1,0 +1,3 @@
+# slovakia
+
+For the moment, only a Python web scraper for grabbing entries from Nehnutelnosti.sk and packaging them as a CSV that can be visualized in QGIS...
